@@ -1,0 +1,15 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: Iv1.347711437d71ae63
+            clientSecret: 306be3acd44c102d685cc5b8fc3c0fabdb4fd270
+          google:
+            clientId: 506961038300-3jeobfn3c1hrkjfqa4jb3imfmfmbgesd.apps.googleusercontent.com
+            clientSecret: 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
+
+#        provider:
+#          auth0:
+#            issuer-uri: https://dev-8ddimhcdzujdoyer.us.auth0.com/
